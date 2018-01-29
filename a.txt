@@ -1,3 +1,6 @@
 a
 b
 new
+git reset HEAD test
+
+DEV merged to master
