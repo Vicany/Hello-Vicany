@@ -6,4 +6,3 @@ git reset HEAD test
 DEV merged to master
 modified master
 abc
-lalalala
